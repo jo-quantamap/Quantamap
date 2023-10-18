@@ -2,7 +2,7 @@
 title: QuantaMAP
 subtitle: Diagnostics for the Quantum Future
 email: info@quantamap.nl
-description: New metrology and diagnostic tools for the quantum future<br /> Seeing is understanding
+description: We develop new metrology and diagnostic tools for the quantum industry<br /> Mapping your chip is understanding your chip's performance
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -22,12 +22,12 @@ tiles-count: 2
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Twitter: 
   Facebook:
   Slack:
 
