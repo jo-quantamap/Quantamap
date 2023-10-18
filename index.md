@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'QuantaMAP'
+landing-title: 'QuantaMAP in index.md'
 description: null
 image: null
 author: null
