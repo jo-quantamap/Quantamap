@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Alltest
 description: this is alltest
 image: assets/images/pic10.jpg
