@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: Alltest
 description: this is alltest
 image: assets/images/pic10.jpg
 nav-menu: true
