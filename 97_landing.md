@@ -3,7 +3,7 @@ title: Landing
 layout: landing
 description: 'This is the landing page'
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
