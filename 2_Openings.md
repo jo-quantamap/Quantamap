@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Openings
-description: Join us
+title: Our openings
+description: Join us!
 image: assets/images/pic10.jpg
 nav-menu: true
 ---
