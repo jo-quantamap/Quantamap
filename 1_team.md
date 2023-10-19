@@ -6,6 +6,12 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 |![Johannes Jobst (CEO)](/assets/images/pic07.jpg) | **Johannes Jobst (CEO)**|
 |---|---|
 |![Johannes Jobst (CEO)](/assets/images/pic07.jpg) | **Kaveh Lahabi (CTO)**|
