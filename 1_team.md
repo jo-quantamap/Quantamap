@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Who we are
 description: Get to know the QuantaMAP team
 image: assets/images/pic11.jpg
