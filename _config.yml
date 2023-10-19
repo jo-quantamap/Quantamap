@@ -2,7 +2,7 @@
 title: QuantaMAP
 subtitle: Diagnostics for the Quantum Future
 email: info@quantamap.nl
-description: We develop new metrology and diagnostic tools for the quantum industry<br /> Mapping your chip is understanding your chip's performance
+description: We develop new metrology and diagnostic tools for the quantum industry<br />
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
