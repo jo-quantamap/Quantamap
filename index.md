@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: ![image tooltip here](/assets/images/logo_final.png) 'QuantaMAP in index.md'
+landing-title: '![image tooltip here](/assets/images/logo_final.png)'
 description: null
 image: null
 author: null
