@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Alltest
-description: this is alltest
+title: Openings
+description: Join us
 image: assets/images/pic10.jpg
 nav-menu: true
 ---
