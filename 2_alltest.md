@@ -16,3 +16,5 @@ this is a test page
 </a>
 
 <div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+
+![image tooltip here](/assets/images/pic07.jpg)
