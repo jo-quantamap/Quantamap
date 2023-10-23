@@ -15,7 +15,7 @@ We currently have two concrete openings:
 * an Intern to investigate a novel imaging method and to assess its commercial viability.
 
 
-Additionally, we are happy to host interns on a number of technical and non-technical topics. Just get in touch.
+Additionally, we are happy to host interns and BSc/MSc stundents on a number of technical and non-technical topics. Just get in touch.
 
 # Working at QuantaMAP
 

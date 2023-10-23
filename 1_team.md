@@ -11,3 +11,6 @@ nav-menu: true
 |![Johannes Jobst (CEO)](/assets/images/QM2.jpg) | **Kaveh Lahabi (CTO)**|
 |![Johannes Jobst (CEO)](/assets/images/QM3.jpg) | **Milan Allan (CSO)**|
 |![Johannes Jobst (CEO)](/assets/images/QM4.jpg) | **Jimi de Haan**|
+
+
+
