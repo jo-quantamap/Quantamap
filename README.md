@@ -14,6 +14,15 @@ Simply fork this repository and start editing the `_config.yml` file!
 
 > NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
 
+# What is where
+* header:
+	* logo
+* _config.yml:
+	* Headline on start page 
+* layouts:
+* libs/_vars.sccs
+	* colors
+
 # Added Features
 
 * **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
