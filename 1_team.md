@@ -2,15 +2,15 @@
 layout: post
 title: Who we are
 description: Get to know the QuantaMAP team
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
-|![Johannes Jobst (CEO)](/assets/images/QM1.jpg) | **Johannes Jobst (CEO)**|
+|![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.png) | **Johannes Jobst (CEO)**|
 |---|---|
-|![Johannes Jobst (CEO)](/assets/images/QM2.jpg) | **Kaveh Lahabi (CTO)**|
-|![Johannes Jobst (CEO)](/assets/images/QM3.jpg) | **Milan Allan (CSO)**|
-|![Johannes Jobst (CEO)](/assets/images/QM4.jpg) | **Jimi de Haan**|
+|![Johannes Jobst (CEO)](/assets/images/Kaveh-Lahabi.png) | **Kaveh Lahabi**|
+|![Johannes Jobst (CEO)](/assets/images/Milan-Allan.png) | **Milan Allan**|
+|![Johannes Jobst (CEO)](/assets/images/Jimi-de-Haan.png) | **Jimi de Haan**|
 
 
 
