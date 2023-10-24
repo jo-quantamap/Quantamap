@@ -2,7 +2,7 @@
 layout: page
 title: We are hiring!
 description: Join our team and become part of our growth journey
-image: assets/images/pic10.jpg
+image: 
 nav-menu: true
 ---
 
