@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: What we do
 description: Get to know our tech
 image: \\ assets/images/pic11.jpg
