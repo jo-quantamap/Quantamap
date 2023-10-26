@@ -7,16 +7,16 @@ baseurl:
 #baseurl: "http://jo-quantamap.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Torenmolen 116
+street_address: Nieuwe Mare 25
 city: Leiden
 state: ZH
-zip_code: 2317NW
+zip_code: 2312NL
 country: The Netherlands
 phone: +31649588920
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
