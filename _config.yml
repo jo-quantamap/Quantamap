@@ -6,7 +6,7 @@ description: We develop new metrology and diagnostic tools for the quantum indus
 baseurl: 
 #baseurl: "http://jo-quantamap.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Johannes Jobst
 street_address: Nieuwe Mare 25
 city: Leiden
 state: ZH
@@ -27,7 +27,7 @@ socials:
   GitLab:
   Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  LinkedIn: https://www.linkedin.com/company/quantamap
   Twitter: 
   Facebook:
   Slack:
