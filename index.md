@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'We are QuantaMAP'
+landing-title: 'Hi, we are QuantaMap'
 description: null
 image: null
 author: null
