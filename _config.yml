@@ -3,7 +3,7 @@ title: QuantaMap
 subtitle: Diagnostics for the Quantum Future
 email: info@quantamap.nl
 description: We develop new metrology and diagnostic tools for the quantum industry<br />
-baseurl: "/QuantaMap-website" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Torenmolen 116
