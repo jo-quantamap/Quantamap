@@ -6,11 +6,9 @@ image:
 nav-menu: true
 ---
 
-|![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.png) | **Johannes Jobst (CEO)**|
+|![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.png) | ![Kaveh Lahabi](/assets/images/Kaveh-Lahabi.png) | |![Milan Allan](/assets/images/Milan-Allan.png) | |![Jimi de Haan](/assets/images/Jimi-de-Haan.png) |
 |---|---|
-|![Johannes Jobst (CEO)](/assets/images/Kaveh-Lahabi.png) | **Kaveh Lahabi**|
-|![Johannes Jobst (CEO)](/assets/images/Milan-Allan.png) | **Milan Allan**|
-|![Johannes Jobst (CEO)](/assets/images/Jimi-de-Haan.png) | **Jimi de Haan**|
+|**Johannes Jobst (CEO)**| **Kaveh Lahabi** | **Milan Allan** | **Jimi de Haan**|
 
 
 
