@@ -6,7 +6,6 @@ image: \\ assets/images/pic11.jpg
 nav-menu: true
 ---
 
-# What we do - Get to know our tech
 At Quantamap, we are developing cutting-edge tools for metrology and defect inspection for quantum chips and other quantum hardware.
 
 We are convinced that one of the major road-blocks of quantum computing is that when chips do not work as well as they should (they often don't), there is no way to find out why, which component failed, and how to improve the production processes. Our novel microscope, based on SQUID-on-tip, will solve this and help enable the quantum revolution.
