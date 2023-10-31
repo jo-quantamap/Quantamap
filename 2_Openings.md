@@ -11,7 +11,7 @@ nav-menu: true
 
 We currently have two concrete openings:
 
-* a [Quantum Microscope Designer]({% link _openings/quantum_microscope_designer.html %}) to develop the key technology of our microscope,
+* a [Quantum Microscope Designer]({% link _openings/quantum_microscope_designer.md %}) to develop the key technology of our microscope,
 * an Intern to investigate a novel imaging method and to assess its commercial viability.
 
 Additionally, we are happy to host interns and BSc/MSc stundents on a number of technical and non-technical topics. Just get in touch.
