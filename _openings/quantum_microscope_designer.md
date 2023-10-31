@@ -29,9 +29,10 @@ The match would be even more perfect if you have:
 *	experience in instrument design
 *	experience in scaling up a business
 *	interest in business and organization
+  
 This role requires you to be an independent problem solver, to make things work, to have grit and a passion for building things. You have to be a great team player who wants the success of the team. It is important that you act with integrity and thrive in the uncertain and dynamic scale-up environment. 
 
-But please do not hesitate to apply if you think this could be the right opportunity for you, even if you do not tick all of the boxes. 
+Please do not hesitate to apply if you think this could be the right opportunity for you, even if you do not tick all of the boxes. 
 
 ## What we have to offer 
 We offer you a challenging position with ample opportunity to grow. You join a growing company, so you can have a key role in shaping the company early on. Depending on the candidate, we can also offer equity benefits. 
