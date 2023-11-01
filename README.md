@@ -1,3 +1,14 @@
+# What is where
+* header:
+	* logo
+* _config.yml:
+	* Headline on start page 
+* layouts:
+* _sass/libs/_vars.sccs
+	* colors
+
+
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
@@ -14,14 +25,7 @@ Simply fork this repository and start editing the `_config.yml` file!
 
 > NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
 
-# What is where
-* header:
-	* logo
-* _config.yml:
-	* Headline on start page 
-* layouts:
-* libs/_vars.sccs
-	* colors
+
 
 # Added Features
 
