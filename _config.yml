@@ -35,6 +35,9 @@ socials:
 # build settings
 markdown: kramdown
 
+plugins: 
+- jekyll-seo-tag
+
 sass:
   style: compressed
 
