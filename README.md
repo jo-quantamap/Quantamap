@@ -6,7 +6,9 @@
 * layouts:
 * _sass/libs/_vars.sccs
 	* colors
-
+* Things that appear on the start page:
+ 	* all `.md` files in the main folder. They are put on the start page in alphabetic order. Hence, I numbered them.
+  	* How many are displayed can be changed by setting the `tiles-count` parameter in `_config.yml`
 
 
 # Forty - Jekyll Theme
