@@ -8,7 +8,7 @@ nav-menu: true
 
 # Meet the QuantaMap team
 
-|![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.png){: width="150" }| ![Kaveh Lahabi](/assets/images/Kaveh-Lahabi.png){: width="150" }| ![Milan Allan](/assets/images/Milan-Allan.png){: width="150" }| ![Jimi de Haan](/assets/images/Jimi-de-Haan.png){: width="150" }|
+|![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.png){: width="150" }| ![Kaveh Lahabi](/assets/images/Kaveh-Lahabi.png){: width="150" }| ![Milan P Allan](/assets/images/Milan-Allan.png){: width="150" }| ![Jimi de Haan](/assets/images/Jimi-de-Haan.png){: width="150" }|
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst (CEO)**| **Kaveh Lahabi** | **Milan Allan** | **Jimi de Haan**|
 
