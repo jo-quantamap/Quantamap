@@ -33,6 +33,18 @@ images:
   {% endfor %}
 </ul>
 
+<ul>
+  <li class="col-1" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+    <p>Some text 1</p>
+  </li>
+  <li class="col-2" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+    <p>Some text 2</p>
+  </li>
+  <li class="col-3" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+    <p>Some text 3</p>
+  </li>
+</ul>
+
 We are a team of four founders and two interns, and we are motivated to solve hard problems that do not have solutions yet. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
 # Our mission and our technology
