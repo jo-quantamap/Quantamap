@@ -12,35 +12,14 @@ nav-menu: true
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst (CEO)**| **Kaveh Lahabi** | **Milan P Allan** | **Jimi de Haan**|
 
----
-# YAML front matter
-images:
-  - path: /assets/images/Johannes-Jobst.png
-    column: 1
-    text: Some text 1
-  - path: /assets/images/Johannes-Jobst.png
-    column: 2
-    text: Some text 2
-  - path: /assets/images/Johannes-Jobst.png
-    column: 3
-    text: Some text 3
----
 <ul>
-  {% for image in page.images %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
-      <p>{{ image.text }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-<ul>
-  <li class="col-1" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-1" style="image: url(/assets/images/Johannes-Jobst.png)">
     <p>Some text 1</p>
   </li>
-  <li class="col-2" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-2" style="image: url(/assets/images/Johannes-Jobst.png)">
     <p>Some text 2</p>
   </li>
-  <li class="col-3" style="background-image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-3" style="image: url(/assets/images/Johannes-Jobst.png)">
     <p>Some text 3</p>
   </li>
 </ul>
