@@ -13,13 +13,13 @@ nav-menu: true
 |**Johannes Jobst (CEO)**| **Kaveh Lahabi** | **Milan P Allan** | **Jimi de Haan**|
 
 <ul>
-  <li class="col-1" style="image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-1" style="background-image: url(/assets/images/Johannes-Jobst.png);  background-repeat: no-repeat">
     <p>Some text 1</p>
   </li>
-  <li class="col-2" style="image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-2" style="background-image: url(/assets/images/Johannes-Jobst.png);  background-repeat: no-repeat">
     <p>Some text 2</p>
   </li>
-  <li class="col-3" style="image: url(/assets/images/Johannes-Jobst.png)">
+  <li class="col-3" style="background-image: url(/assets/images/Johannes-Jobst.png);  background-repeat: no-repeat">
     <p>Some text 3</p>
   </li>
 </ul>
