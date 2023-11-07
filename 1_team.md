@@ -12,13 +12,26 @@ nav-menu: true
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst (CEO)**| **Kaveh Lahabi** | **Milan P Allan** | **Jimi de Haan**|
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Johannes-Jobst.png" style="height: 100px">
-  Johannes Jobst
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kaveh-Lahabi.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Milan-Allan.png" style="height: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jimi de Haan.png" style="height: 100px">
-</figure>
+---
+# YAML front matter
+images:
+  - path: /assets/images/Johannes-Jobst.png
+    column: 1
+    text: Some text 1
+  - path: /assets/images/Johannes-Jobst.png
+    column: 2
+    text: Some text 2
+  - path: /assets/images/Johannes-Jobst.png
+    column: 3
+    text: Some text 3
+---
+<ul>
+  {% for image in page.images %}
+    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+      <p>{{ image.text }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 We are a team of four founders and two interns, and we are motivated to solve hard problems that do not have solutions yet. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
