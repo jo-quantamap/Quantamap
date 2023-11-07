@@ -6,7 +6,9 @@ image:
 nav-menu: false
 ---
 
-# Job description
+# Quantum Microscope Designer
+**Develop new metrology tools to enable quantum computing in a fast-growing startup**
+
 Quantamap is looking for a quantum microscope designer for our young startup. You will be a key part of our small, but fast-growing company, and you will join us during a very exciting time: We recently acquired funding, which allows us to accelerate and grow our team. You will play a central part in the acceleration of our technical development. Your main responsibilities will be technical, but because of the early stage of the company, we explicitly welcome applicants with interest in leadership and management responsibilities. 
 
 ## About Quantamap
