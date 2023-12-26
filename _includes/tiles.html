@@ -4,42 +4,6 @@
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
 
-{% assign tiles = "" | split,"" %}
-
-<!-- {% for page in site.html_pages %}
-{% if page.url contains "Openings" %}
-{% assign tiles = tiles | push:page %}
-{% endif %}
-{% endfor %}
-
-{% for page in site.html_pages %}
-{% if page.url contains "team" %}
-{% assign tiles = tiles | push:page %}
-{% endif %}
-{% endfor %}
-
-{% for page in site.html_pages %}
-{% if page.url contains "technology" %}
-{% assign tiles = tiles | push:page %}
-{% endif %}
-{% endfor %} 
-
-<section id="one" class="tiles">
-  {% for tile in tiles limit:site.tiles-count %}
-    <!-- {% if tile.url contains 'Openings' %} -->
-      <article>
-        <span class="image">
-          <img src="{{ tile.image }}" alt="{{ tile.title }}" />
-        </span>
-        <header class="major">
-          <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
-          <p>{{ tile.description }}</p>
-        </header>
-      </article>
-    <!-- {% endif %} -->
-  {% endfor %}
-</section> -->
-
 <section id="one" class="tiles">
     {% for tile in tiles %}
     {% if tile.url contains 'Openings' %}
