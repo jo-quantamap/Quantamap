@@ -6,7 +6,7 @@
 
 {% assign tiles = "" | split,"" %}
 
-{% for page in site.html_pages %}
+<!-- {% for page in site.html_pages %}
 {% if page.url contains "Openings" %}
 {% assign tiles = tiles | push:page %}
 {% endif %}
@@ -22,7 +22,7 @@
 {% if page.url contains "technology" %}
 {% assign tiles = tiles | push:page %}
 {% endif %}
-{% endfor %}
+{% endfor %} 
 
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
@@ -38,4 +38,43 @@
       </article>
     <!-- {% endif %} -->
   {% endfor %}
+</section> -->
+
+<section id="one" class="tiles">
+    {% if tile.url contains 'Openings' %}
+      <article>
+        <span class="image">
+          <img src="{{ tile.image }}" alt="{{ tile.title }}" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+          <p>{{ tile.description }}</p>
+        </header>
+      </article>
+    {% endif %}
+    
+  {% if tile.url contains 'team' %}
+      <article>
+        <span class="image">
+          <img src="{{ tile.image }}" alt="{{ tile.title }}" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+          <p>{{ tile.description }}</p>
+        </header>
+      </article>
+    {% endif %}
+
+    {% if tile.url contains 'technology' %}
+      <article>
+        <span class="image">
+          <img src="{{ tile.image }}" alt="{{ tile.title }}" />
+        </span>
+        <header class="major">
+          <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+          <p>{{ tile.description }}</p>
+        </header>
+      </article>
+    {% endif %}
 </section>
+
