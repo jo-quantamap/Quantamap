@@ -41,6 +41,7 @@
 </section> -->
 
 <section id="one" class="tiles">
+    {% for tile in tiles %}
     {% if tile.url contains 'Openings' %}
       <article>
         <span class="image">
@@ -52,7 +53,9 @@
         </header>
       </article>
     {% endif %}
+    {% endfor %}
     
+  {% for tile in tiles %}  
   {% if tile.url contains 'team' %}
       <article>
         <span class="image">
@@ -64,7 +67,9 @@
         </header>
       </article>
     {% endif %}
+    {% endfor %}
 
+    {% for tile in tiles %}
     {% if tile.url contains 'technology' %}
       <article>
         <span class="image">
@@ -76,5 +81,6 @@
         </header>
       </article>
     {% endif %}
+    {% endfor %}
 </section>
 
