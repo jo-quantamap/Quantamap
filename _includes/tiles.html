@@ -7,7 +7,19 @@
 {% assign tiles = "" | split,"" %}
 
 {% for page in site.html_pages %}
-{% if page.url contains "Openings" or page.url contains "team" %}
+{% if page.url contains "Openings" %}
+{% assign tiles = tiles | push:page %}
+{% endif %}
+{% endfor %}
+
+{% for page in site.html_pages %}
+{% if page.url contains "team" %}
+{% assign tiles = tiles | push:page %}
+{% endif %}
+{% endfor %}
+
+{% for page in site.html_pages %}
+{% if page.url contains "technology" %}
 {% assign tiles = tiles | push:page %}
 {% endif %}
 {% endfor %}
